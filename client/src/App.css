@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap");
+
+.app {
+  font-family: "DM Sans";
+  background-color: rgb(40, 40, 43);
+  color: #fff;
+}
+
+/* GET DETAILS FORM */
+.get-details-form {
+}
+
+.get-details-form > form {
+  max-width: 500px;
+  color: rgb(40, 40, 43);
+}
